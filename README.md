@@ -4,7 +4,7 @@
 
 - To start a Python project, you need at LEAST this code:
 
-```
+```py
 print("Hello world")
 ```
 
