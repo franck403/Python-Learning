@@ -10,4 +10,6 @@ print("Hello world")
 
 ## To launch the project:
 - Export
+```
 python file.py
+```
