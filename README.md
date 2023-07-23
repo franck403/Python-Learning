@@ -8,6 +8,9 @@ to learn how to code and learn Python easily.
 
 Each Python lesson will be accompanied by an emoji to distinguish them.
 
+### All exercises
+- 1 - [💡 Variables](https://github.com/IwakiLeKiwi/Python-Learning/tree/1-variables)
+
 ## How to start a Python project?
 
 - To start a Python project, you need at LEAST this code:
