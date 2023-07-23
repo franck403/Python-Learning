@@ -29,7 +29,7 @@ continue_party = True # continue_party is of type bool
 - ``print()``: To display information on the screen.
 - ``input()``: To read data entered on the keyboard by the user.
 - ``type()``: To find out the type of a data item or variable.
-- ``int()``, ``float()``, ``bool()``: Convert data from one type to another.
+- ``int()``,``str()``, ``float()``, ``bool()``: Convert data from one type to another.
 - ``str.format()``: To format a string by inserting dynamic values.
 
 ##### Example of function usage :
@@ -42,7 +42,7 @@ print(text.format(agePerson, namePlayer))
 ##### You can also use ``f-strings`` for formatting:
 
 ```python
-text = f "The person's age is {agePerson} and his name is {playerName}.
+text = f"The person's age is {agePerson} and his name is {playerName}.
 ```
 
 ## Result
